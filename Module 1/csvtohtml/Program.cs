@@ -8,7 +8,7 @@ namespace csvtohtml
         {
 
             // our file path
-            string filepath = @"C:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\";
+            string filepath = @"/home/jeremy/projects/CSharpWorkshop-Intro-to-csharp-7/Module 1/csvtohtml/";
 
             // counter to see how many lines were added
             int counter = 0;

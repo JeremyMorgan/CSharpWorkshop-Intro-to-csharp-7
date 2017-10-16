@@ -664,30 +664,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jeremy Morgan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/jeremy/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Jeremy Morgan\\Desktop\\CsharpCourse\\csvtohtml\\csvtohtml.csproj",
+      "projectUniqueName": "/home/jeremy/projects/CSharpWorkshop-Intro-to-csharp-7/Module 1/csvtohtml/csvtohtml.csproj",
       "projectName": "csvtohtml",
-      "projectPath": "c:\\Users\\Jeremy Morgan\\Desktop\\CsharpCourse\\csvtohtml\\csvtohtml.csproj",
-      "packagesPath": "C:\\Users\\Jeremy Morgan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Jeremy Morgan\\Desktop\\CsharpCourse\\csvtohtml\\obj\\",
+      "projectPath": "/home/jeremy/projects/CSharpWorkshop-Intro-to-csharp-7/Module 1/csvtohtml/csvtohtml.csproj",
+      "packagesPath": "/home/jeremy/.nuget/packages/",
+      "outputPath": "/home/jeremy/projects/CSharpWorkshop-Intro-to-csharp-7/Module 1/csvtohtml/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jeremy Morgan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/jeremy/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
