@@ -1,0 +1,10 @@
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\bin\Debug\netcoreapp2.0\csvtohtml.deps.json
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\bin\Debug\netcoreapp2.0\csvtohtml.runtimeconfig.json
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\bin\Debug\netcoreapp2.0\csvtohtml.runtimeconfig.dev.json
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\bin\Debug\netcoreapp2.0\csvtohtml.dll
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\bin\Debug\netcoreapp2.0\csvtohtml.pdb
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\obj\Debug\netcoreapp2.0\csvtohtml.csproj.CoreCompileInputs.cache
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\obj\Debug\netcoreapp2.0\csvtohtml.AssemblyInfoInputs.cache
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\obj\Debug\netcoreapp2.0\csvtohtml.AssemblyInfo.cs
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\obj\Debug\netcoreapp2.0\csvtohtml.dll
+c:\Users\Jeremy Morgan\Desktop\CsharpCourse\csvtohtml\obj\Debug\netcoreapp2.0\csvtohtml.pdb
